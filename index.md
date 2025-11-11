@@ -1,4 +1,4 @@
-<p style="text-align:center;"> 
+<p align="center"> 
 **Name:** Essie Cheng
 
 **Email:** e3cheng@ucsd.edu
@@ -7,5 +7,6 @@
 
 **Mentor:** Tauhidur Rahman
 </p>
+
 
 
