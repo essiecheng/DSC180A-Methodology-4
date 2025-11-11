@@ -23,7 +23,7 @@ Given that we have both objective data through wearable signals and subjective d
 
 Right now we are only looking at a just a few features to esnure we can build a robust baseline model, but I'd like to incorporate more lifestyle features next quarter (e.g. food intake, sleep quality, etc.) in order to better capture the nuances and contexts of real-world settings and daily living, thus creating a more accurate digital twin.
 
-**4. What other techniques would you be interested in using in your project? **
+**4. What other techniques would you be interested in using in your project?**
 
 I'm interested in integrating knowledge graphs that can learn relationships between similar individuals or different interventions in order to create more personalized digital twin models. I would also be interested in incorporating LLMs that enables a more interactive framework and personalized analytics.
 
